@@ -34,6 +34,7 @@
   "devDependencies": {
     "gatsby-plugin-force-trailing-slashes": "^1.0.4",
     "gatsby-plugin-meta-redirect": "^1.1.1",
+    "gatsby-plugin-netlify": "^2.5.0",
     "gatsby-plugin-remove-trailing-slashes": "^2.4.0",
     "prettier": "2.1.2"
   },
